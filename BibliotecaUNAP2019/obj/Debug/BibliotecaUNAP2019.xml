@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BibliotecaUNAP2019
+</name>
+</assembly>
+<members>
+<member name="T:BibliotecaUNAP2019.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources._1486504830_delete_dustbin_empty_recycle_recycling_remove_trash_81361">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.cancel_stop_exit_1583">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.del">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.diskette_save_saveas_1514">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.DocumentEdit_40924">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.DSC_07051">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.generallyremove_engeneral_13084">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.generallyremove_engeneral_13084__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.IMAGE">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.ja">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.new_add_user_16734">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BibliotecaUNAP2019.My.Resources.Resources.new_file_40454">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
